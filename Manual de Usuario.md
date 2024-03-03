@@ -18,13 +18,14 @@ Bienvenido a PetWorld Manager, esta es una aplicacion que permite la experiencia
 2. Aparecerá un menú principal con las siguientes opciones:
    - **Ir al módulo PetManager**: esta opcion permite ingresar al modulo de petmanager, y lleva hacia otro menú el cual permite cargar el archivo de instrucciones
    - **Salir**: Cierra la aplicación.
-   ![Texto alternativo](menu principal.png)
+   ![Texto alternativo](C:\Users\familia\OneDrive\Escritorio\Ingenieria\Lenguajes Formales\LAB\imagenes de los manuales\practica 1\manual de usuario\menu principal.png)
 
 
 ## Gestión de Mascotas
 Una vez que estés en el módulo PetManager, tendrás las siguientes opciones:
 
 1. **Cargar archivo**: Carga un archivo de configuración con la terminacion ".petworld" que contiene información sobre las mascotas existentes y las operaciones a realizar.
+![Texto alternativo]()
 2. **Salir**: Regresa al menú principal.
 
 ## Cómo Interactuar con las Mascotas
