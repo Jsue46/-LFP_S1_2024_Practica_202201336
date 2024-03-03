@@ -18,7 +18,7 @@ Bienvenido a PetWorld Manager, esta es una aplicacion que permite la experiencia
 2. Aparecerá un menú principal con las siguientes opciones:
    - **Ir al módulo PetManager**: esta opcion permite ingresar al modulo de petmanager, y lleva hacia otro menú el cual permite cargar el archivo de instrucciones
    - **Salir**: Cierra la aplicación.
-![Texto alternativo](https://drive.google.com/file/d/1eLQFeSR0gYSq06Sz-aQ6SUiYTqSw1MGL/view?usp=drive_link) 
+[![Texto alternativo](https://i.ibb.co/5rWZSR2/menu principal.png)](https://i.ibb.co/5rWZSR2/menu principal.png)
 
 ## Gestión de Mascotas
 Una vez que estés en el módulo PetManager, tendrás las siguientes opciones:
