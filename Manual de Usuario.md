@@ -42,6 +42,12 @@ Una vez que hayas cargado un archivo o creado mascotas manualmente, puedes inter
 - **Jugar**: Juega con una mascota gato durante un período de tiempo especificado.
 - **Resumen Mascota**: Muestra un resumen del estado actual de una mascota gato, incluyendo su nivel de energía y si está vivo o muerto.
 - **Resumen Global**: Muestra un resumen global de todas las mascotas gato creadas, incluyendo sus estados y niveles de energía.
+![Descripción de la imagen](https://i.ibb.co/sqM9fhS/image.png)
+![Descripción de la imagen](https://i.ibb.co/5WnNt6j/image.png)
+
+
+al final podras visualizar una imagen con las mascotas que tienes, mostrando sus caracteristicas y un documento con el resumen de movimiento denteo del programa
+
 
 ## Cómo Salir de la Aplicación
 En cualquier momento, puedes seleccionar la opción "Salir" en cualquier menú para cerrar la aplicación.
