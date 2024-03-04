@@ -27,11 +27,13 @@ Bienvenido a PetWorld Manager, esta es una aplicacion que permite la experiencia
 Una vez que estés en el módulo PetManager, tendrás las siguientes opciones:
 
 1. **Cargar archivo**: Carga un archivo de configuración con la terminacion ".petworld" que contiene información sobre las mascotas existentes y las operaciones a realizar.
-![Texto alternativo]()
+![menu pet](https://ibb.co/FVjsrpj/image.png)
 2. **Salir**: Regresa al menú principal.
 
 ## Cómo Interactuar con las Mascotas
 Una vez que hayas cargado un archivo o creado mascotas manualmente, puedes interactuar con ellas de las siguientes maneras:
+![vista cargar](https://ibb.co/RHNKWsN/image.png)
+
 
 - **Crear Gato**: Crea una nueva mascota gato con un nombre especificado.
 - **Dar de Comer**: Alimenta a una mascota gato proporcionándole comida.
